@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wf-plumelog.iml" filepath="$PROJECT_DIR$/wf-plumelog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wf-plumelog-core/wf-plumelog-core.iml" filepath="$PROJECT_DIR$/wf-plumelog-core/wf-plumelog-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wf-plumelog-logback/wf-plumelog-logback.iml" filepath="$PROJECT_DIR$/wf-plumelog-logback/wf-plumelog-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wf-plumelog-trace/wf-plumelog-trace.iml" filepath="$PROJECT_DIR$/wf-plumelog-trace/wf-plumelog-trace.iml" />
+    </modules>
+  </component>
+</project>
